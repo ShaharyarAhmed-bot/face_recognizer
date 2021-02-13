@@ -1,1 +1,1 @@
-from face_recognizer.recognizer import Recognizer
+from spott.recognizer import Recognizer
