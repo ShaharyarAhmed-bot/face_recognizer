@@ -1,4 +1,4 @@
-# Spott
+# SPOTT
 
 Under construction! Alpha release
 
