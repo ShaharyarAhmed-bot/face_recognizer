@@ -26,3 +26,4 @@ recognizer = face_recognizer.Recognizer(known_faces_dir = "directory location he
 recognizer.init()
 recognizer.live_feed()
 ```
+Report any bugs to my email shaharyar.ahmed1121@gmail.com or create a new issue
