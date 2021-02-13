@@ -11,7 +11,7 @@ LONG_DESCRIPTION = 'A package that allows developers to do face recognition in a
 
 # Setting up
 setup(
-    name="face_recognizer",
+    name="spott",
     version=VERSION,
     author="Shaharyar Ahmed",
     author_email="<shaharyar.ahmed1121@gmail.com>",
