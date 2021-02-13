@@ -5,7 +5,7 @@ import os
 here = os.path.abspath(os.path.dirname(__file__))
 
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'Face Recognizer'
 LONG_DESCRIPTION = 'A package that allows developers to do face recognition in a few lines of code'
 
