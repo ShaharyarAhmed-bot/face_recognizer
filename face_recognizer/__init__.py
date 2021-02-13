@@ -1,0 +1,1 @@
+from face_recognizer.recognizer import Recognizer
