@@ -5,7 +5,7 @@ import os
 here = os.path.abspath(os.path.dirname(__file__))
 
 
-VERSION = '0.0.3'
+VERSION = '0.0.5'
 DESCRIPTION = 'Face Recognizer'
 LONG_DESCRIPTION = 'A package that allows developers to do face recognition in a few lines of code'
 
@@ -19,7 +19,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['face-recognition', 'opencv-contrib-python', 'tqdm', 'colorama'],
+    install_requires=['face-recognition', 'opencv-contrib-python', 'tqdm', 'colorama', 'joblib', 'regex', 'requests', 'six'],
     keywords=['python', 'face-recognition', 'opencv'],
     classifiers=[
         "Development Status :: 1 - Planning",
