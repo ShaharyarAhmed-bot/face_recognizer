@@ -22,7 +22,7 @@ setup(
     install_requires=['face-recognition', 'opencv-contrib-python'],
     keywords=['python', 'face-recognition', 'opencv'],
     classifiers=[
-        "Development Status :: 1 - Developing",
+        "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",

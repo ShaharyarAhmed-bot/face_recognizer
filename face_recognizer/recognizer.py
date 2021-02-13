@@ -6,7 +6,7 @@ Author: Shaharyar Ahmed
 
 __author__ = "Shaharyar Ahmed"
 __email__ = "shaharyar.ahmed1121@gmail.com"
-__status__ = "development"
+__status__ = "planning"
 
 
 # ─── IMPORTING PACKAGES ─────────────────────────────────────────────────────────
