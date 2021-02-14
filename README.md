@@ -30,7 +30,7 @@ Before running this code please make sure your directory tree lookes like this:
     └── all the pictures you want to recognize.jpg
 ```
 
-After this run the following code after choosing your model. The chocies for the model are hog, cnn and sift. 
+Run the following code after choosing your model. The chocies for the model are hog, cnn and sift. 
 
 ```python
 import spott
@@ -54,7 +54,7 @@ Before running this code make sure your directory tree looks like this
 
 As you can see there is no unknown_faces directory beacuse we are doing live face recognition now through the pc/laptop camera
 
-After this run the following code after choosing your model. The chocies for the model are hog, cnn and sift. 
+Run the following code after choosing your model. The chocies for the model are hog, cnn and sift. 
 
 ```python
 import spott
