@@ -21,12 +21,14 @@ Face Recognition on an image
 
 Before running this code please make sure your directory tree lookes like this:
 
+```
 ├── known_faces
 │   └── Persons Name
 │       └── pictures of the person you want the ai to know about.jpg
 ├── main.py
 └── unknown_faces
     └── all the pictures you want to recognize.jpg
+```
 
 After this run the following code after choosing your model. The chocies for the model are hog, cnn and sift. 
 
@@ -43,10 +45,12 @@ Live Face Recognition
 
 Before running this code make sure your directory tree looks like this
 
+```
 ├── known_faces
 │   └── Persons Name
 │       └── pictures of the person you want the ai to know about.jpg
 └── main.py
+```
 
 As you can see there is no unknown_faces directory beacuse we are doing live face recognition now through the pc/laptop camera
 
